@@ -1,4 +1,4 @@
-# Job & Internship Application Tracker
+# Find Job For Me (Job & Internship Application Tracker)
 
 A full-stack web application designed to help students and job seekers organise, manage, and track their job and internship applications in one place.
 
